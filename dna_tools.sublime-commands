@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "DNA Tools: Reverse Complement",
+    "command": "reverse_complement"
+  },
+  {
+    "caption": "DNA Tools: Complement Only",
+    "command": "complement_only"
+  },
+  {
+    "caption": "DNA Tools: Reverse Only",
+    "command": "reverse_only"
+  }
+]
